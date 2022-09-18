@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295253592392",
+    "project_id": "deneme-9db6c",
+    "storage_bucket": "deneme-9db6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295253592392:android:f3566c268d28ea4c6d0b7d",
+        "android_client_info": {
+          "package_name": "com.example.teknasyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295253592392-soc0h8ceuajbunuesbj4p4iq9oo8gjnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnx2eOUXKSwOYIYzE5eGzBDJWv3JsEkpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295253592392-soc0h8ceuajbunuesbj4p4iq9oo8gjnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
